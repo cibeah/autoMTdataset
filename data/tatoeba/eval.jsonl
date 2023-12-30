@@ -1,0 +1,569 @@
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Mèsi onpil, sé tout.' en français"}, {"role": "assistant", "content": "Merci beaucoup, ce sera tout."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Mèsi pou envitasyon a'w.' en français"}, {"role": "assistant", "content": "Merci de m'avoir invité."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Mèsi.' en français"}, {"role": "assistant", "content": "Merci."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Mèt dé kawòt an vyann-la !' en français"}, {"role": "assistant", "content": "Mets deux carottes avec la viande !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Mésyé !' en français"}, {"role": "assistant", "content": "Mes aïeux !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Mésyé, mésyé ! Fout sa lèd !' en français"}, {"role": "assistant", "content": "Mes aïeux ! Que c'est moche !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Mété tibren alkòl asi bobo-la !' en français"}, {"role": "assistant", "content": "Mets un peu d'alcool sur la plaie !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Mété tibwen alkòl asi bobo-la !' en français"}, {"role": "assistant", "content": "Mets un peu d'alcool sur la plaie !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Météwo-la anonsé on bèl wikenn.' en français"}, {"role": "assistant", "content": "La météo prévoit un beau week-end."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Météyo-la anonsé on bèl wikenn.' en français"}, {"role": "assistant", "content": "La météo prévoit un beau week-end."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ni on moun blésé.' en français"}, {"role": "assistant", "content": "Il y a un blessé."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ni on moun ka néyé !' en français"}, {"role": "assistant", "content": "Il y a quelqu'un qui se noie !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ni onlo lafimé.' en français"}, {"role": "assistant", "content": "Il y a beaucoup de fumée."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ni onpil lafimé.' en français"}, {"role": "assistant", "content": "Il y a beaucoup de fumée."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ni ywit chival.' en français"}, {"role": "assistant", "content": "Il y a huit chevaux."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ni ywit chouval.' en français"}, {"role": "assistant", "content": "Il y a huit chevaux."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ni ywit chèval.' en français"}, {"role": "assistant", "content": "Il y a huit chevaux."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ni òksijèn andidan boutèy-lasa.' en français"}, {"role": "assistant", "content": "Il y a de l'oxygène dans cette bouteille."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Non !' en français"}, {"role": "assistant", "content": "Non !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Non ?' en français"}, {"role": "assistant", "content": "Non ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Non an mwen sé Andréa.' en français"}, {"role": "assistant", "content": "Je m'appelle Andrea."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Non an mwen sé Jan.' en français"}, {"role": "assistant", "content": "Je m'appelle John."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Non an mwen sé Lori.' en français"}, {"role": "assistant", "content": "Je m'appelle Laurie."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Non an mwen sé Lwi.' en français"}, {"role": "assistant", "content": "Je m'appelle Luis."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Non an mwen sé Sacha.' en français"}, {"role": "assistant", "content": "Je m'appelle Sasha."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Non an mwen sé Sali.' en français"}, {"role": "assistant", "content": "Je m'appelle Sally."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Non an mwen sé Sara.' en français"}, {"role": "assistant", "content": "Je m'appelle Sara."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Non an mwen sé Tòm é mi Mawi.' en français"}, {"role": "assistant", "content": "Je m'appelle Tom et voici Marie."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Non an mwen sé Èstéfann é mi Kwisyann.' en français"}, {"role": "assistant", "content": "Je m'appelle Stéphane et voici Christiane."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Non an mwen sé Èstéfann.' en français"}, {"role": "assistant", "content": "Je m'appelle Stéphane."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Non an mwen sé Émili.' en français"}, {"role": "assistant", "content": "Je m'appelle Emily."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Non, pa fè sa !' en français"}, {"role": "assistant", "content": "Non, ne fais pas ça !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Nonm-lan ho' en français"}, {"role": "assistant", "content": "L'homme est grand."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Nou fè'w viv èvè lokans a dwèt an nou, an kadans a doulè an nou, a lenbé an nou.' en français"}, {"role": "assistant", "content": "Nous t'avons fait vivre avec l'éloquence de nos doigts, au rythme de nos douleurs, de nos chagrins."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Nou ka chèché travay.' en français"}, {"role": "assistant", "content": "Nous cherchons du travail."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Nou ka fèmé a sétèdswè.' en français"}, {"role": "assistant", "content": "Nous fermons à 19 heures."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Nou ka jwé boul andèwò.' en français"}, {"role": "assistant", "content": "On joue au ballon à l'extérieur."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Nou ka limé blan balenn la.' en français"}, {"role": "assistant", "content": "Nous allumons la bougie."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Nou ka limé bouji-la.' en français"}, {"role": "assistant", "content": "Nous allumons la bougie."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Nou ka manjé.' en français"}, {"role": "assistant", "content": "Nous mangeons."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Nou ka pléwé.' en français"}, {"role": "assistant", "content": "Nous pleurons."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Nou ka vwè lonbwaj a nonm-lasa.' en français"}, {"role": "assistant", "content": "On voit la silhouette de cet homme."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Nou kontan vwè zòt !' en français"}, {"role": "assistant", "content": "Bienvenue !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Nou kontan vwè zòt akaz !' en français"}, {"role": "assistant", "content": "Bienvenue chez nous !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Nou ké manjé.' en français"}, {"role": "assistant", "content": "Nous mangerons."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Nou manjé.' en français"}, {"role": "assistant", "content": "Nous avons mangé."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Nou mwen gwan ki yo.' en français"}, {"role": "assistant", "content": "Nous sommes moins grands qu'eux."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Nou mwen gwan ki zò.' en français"}, {"role": "assistant", "content": "Nous sommes moins grands que vous."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Nou mwen gwan pasé yo.' en français"}, {"role": "assistant", "content": "Nous sommes moins grands qu'eux."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Nou mwen gwan pasé zòt.' en français"}, {"role": "assistant", "content": "Nous sommes moins grands que vous."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Nou mwen gwan pasé'y.' en français"}, {"role": "assistant", "content": "Nous sommes moins grands que toi."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Nou pa dwèt fè poltiik.' en français"}, {"role": "assistant", "content": "Nous ne devrions pas faire de politique."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Nou pa ka gadé.' en français"}, {"role": "assistant", "content": "Nous sommes pas en train de regarder."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Nou pa ka manjé.' en français"}, {"role": "assistant", "content": "Nous ne sommes pas en train de manger."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Nou pa manjé.' en français"}, {"role": "assistant", "content": "Nous n'avons pas mangé."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Nou pa pè.' en français"}, {"role": "assistant", "content": "On n'a pas peur."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Nou pa té k'ay manjé.' en français"}, {"role": "assistant", "content": "Nous n'allions pas manger."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Nou pa'a manjé.' en français"}, {"role": "assistant", "content": "Nous ne sommes pas en train de manger."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Nou pran on bon ben an lanmè.' en français"}, {"role": "assistant", "content": "Nous avons pris un bon bain de mer."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Nou pé ké manjé.' en français"}, {"role": "assistant", "content": "Nous ne mangerons pas."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Nou pé'é manjé.' en français"}, {"role": "assistant", "content": "Nous ne mangerons pas."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Nou sé moun isi.' en français"}, {"role": "assistant", "content": "Nous sommes d'ici."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Nou sé moun isit.' en français"}, {"role": "assistant", "content": "Nous sommes d'ici."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Nou sé zanmi a'w.' en français"}, {"role": "assistant", "content": "Nous sommes tes amis."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Nou té k'ay manjé.' en français"}, {"role": "assistant", "content": "Nous allions manger."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Nou té zanmi.' en français"}, {"role": "assistant", "content": "Nous étions amis."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Nou vwè yo yè.' en français"}, {"role": "assistant", "content": "Nous les avons vus hier."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Nyak.' en français"}, {"role": "assistant", "content": "Rien."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Nèf la anba lapo la.' en français"}, {"role": "assistant", "content": "Le nerf est sous la peau."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'O ?' en français"}, {"role": "assistant", "content": "Où ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'O madanm, ès ou ni on ti almanak pou ou ban mwen ?' en français"}, {"role": "assistant", "content": "Eh, madame ! Vous n'avez pas un petit calendrier pour moi ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'O manman yé ?' en français"}, {"role": "assistant", "content": "Elle est où, maman ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'O mwen pé achté ponm ?' en français"}, {"role": "assistant", "content": "Où puis-je acheter des pommes ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'O sant komèwsyal la yé ?' en français"}, {"role": "assistant", "content": "Où se trouve le centre commercial ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'O sé twalèt-la yé ?' en français"}, {"role": "assistant", "content": "Où sont les toilettes ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'O sé twalèt-la yé souplè ?' en français"}, {"role": "assistant", "content": "Où sont les toilettes, s'il vous plait ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Obiyé !' en français"}, {"role": "assistant", "content": "Oublie !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Obiyé'y.' en français"}, {"role": "assistant", "content": "Oublie-le."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Obliyé !' en français"}, {"role": "assistant", "content": "Oublie !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Obliyé'y.' en français"}, {"role": "assistant", "content": "Oublie-le."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ola ?' en français"}, {"role": "assistant", "content": "Où ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ola i dwèt alé ?' en français"}, {"role": "assistant", "content": "Où doit-elle aller ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ola manman yé ?' en français"}, {"role": "assistant", "content": "Elle est où, maman ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ola mwen pé gannyé ponm ?' en français"}, {"role": "assistant", "content": "Où puis-je acheter des pommes ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ola ou fèt ?' en français"}, {"role": "assistant", "content": "Où es-tu né ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ola ou té pasé ?' en français"}, {"role": "assistant", "content": "Où étais-tu passé ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ola sant komèwsyal la yé ?' en français"}, {"role": "assistant", "content": "Où se trouve le centre commercial ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ola sé twalèt-la yé ?' en français"}, {"role": "assistant", "content": "Où sont les toilettes ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ola sé twalèt-la yé souplè ?' en français"}, {"role": "assistant", "content": "Où sont les toilettes, s'il vous plait ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ola wéyon a madanm yé ?' en français"}, {"role": "assistant", "content": "Où se trouve le rayon pour femmes ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ola wéyon a nonm yé ?' en français"}, {"role": "assistant", "content": "Où se trouve le rayon homme ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ola wéyon a timoun yé ?' en français"}, {"role": "assistant", "content": "Où se trouve le rayon enfant ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'On ayen ka boulvèsé on fanm ansent.' en français"}, {"role": "assistant", "content": "Un rien suffit à donner la nausée à une femme enceinte."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'On jenn gason néyé an lanmè la.' en français"}, {"role": "assistant", "content": "Un jeune garçon s'est noyé en mer."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'On jenn tifi néyé an lanmè la.' en français"}, {"role": "assistant", "content": "Une jeune fille s'est noyée en mer."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'On jou, pannan manman yo pa té la, yo ay an bwa.' en français"}, {"role": "assistant", "content": "Un jour, pendant que leur mère était absente, ils s'en allèrent dans les bois."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Onsèl koul baton, i abazoudi konpè lapen.' en français"}, {"role": "assistant", "content": "D'un seul coup de bâton, il assomma compère lapin."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Osi.' en français"}, {"role": "assistant", "content": "Aussi."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Otila i dwèt ay ?' en français"}, {"role": "assistant", "content": "Où doit-elle aller ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Otila manman yé ?' en français"}, {"role": "assistant", "content": "Elle est où, maman ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Otila mwen pé gannyé ponm ?' en français"}, {"role": "assistant", "content": "Où puis-je acheter des pommes ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Otila ou té pasé ?' en français"}, {"role": "assistant", "content": "Où étais-tu passé ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Otila sé twalèt-la yé ?' en français"}, {"role": "assistant", "content": "Où sont les toilettes ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou chanslé.' en français"}, {"role": "assistant", "content": "Vous avez de la chance."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou dwèt manjé sa.' en français"}, {"role": "assistant", "content": "Tu dois manger ça."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou dwètèt fen.' en français"}, {"role": "assistant", "content": "Tu dois avoir faim."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou enmé dansé.' en français"}, {"role": "assistant", "content": "Tu aimes danser."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou enmé najé.' en français"}, {"role": "assistant", "content": "Tu aimes nager."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou enmé'y !' en français"}, {"role": "assistant", "content": "Tu l'aimes !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou fè sa lidé a'w di'w fè.' en français"}, {"role": "assistant", "content": "Tu as agi selon ta conscience."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou fè éwè.' en français"}, {"role": "assistant", "content": "Tu t'es trompé."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou gwan pasé mwen.' en français"}, {"role": "assistant", "content": "Tu es plus grand que moi."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou gwan pasé nou.' en français"}, {"role": "assistant", "content": "Tu es plus grand que nous."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou gwan pasé yo.' en français"}, {"role": "assistant", "content": "Tu es plus grand qu'eux."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou gwan pasé'y.' en français"}, {"role": "assistant", "content": "Tu es plus grand que lui."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou ja kafé ?' en français"}, {"role": "assistant", "content": "Tu as déjà pris ton café ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou ka chèché travay.' en français"}, {"role": "assistant", "content": "Tu cherches du travail."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou ka fini anlè ou menm !' en français"}, {"role": "assistant", "content": "Tu es en train de maigrir !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou ka fè mwen pè.' en français"}, {"role": "assistant", "content": "Tu me fiches la trouille."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou ka fè sa chak jou ?' en français"}, {"role": "assistant", "content": "Fais-tu cela chaque jour ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou ka fè sa toulé jou ?' en français"}, {"role": "assistant", "content": "Fais-tu cela chaque jour ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou ka kouwi chak jou ?' en français"}, {"role": "assistant", "content": "Est-ce que tu cours chaque jour ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou ka kouwi toulé jou ?' en français"}, {"role": "assistant", "content": "Est-ce que tu cours chaque jour ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou ka limé bouji-la.' en français"}, {"role": "assistant", "content": "Tu allumes la bougie."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou ka manjé on sòwbé vanni.' en français"}, {"role": "assistant", "content": "Tu manges une glace à la vanille."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou ka manjé on sòwbé.' en français"}, {"role": "assistant", "content": "Tu manges une glace."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou ka manjé.' en français"}, {"role": "assistant", "content": "Tu es en train de manger."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou ka manké mwen.' en français"}, {"role": "assistant", "content": "Tu me manques."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou ka manti.' en français"}, {"role": "assistant", "content": "Tu mens."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou ka pati ?' en français"}, {"role": "assistant", "content": "Tu pars ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou ka éséyé wanjé pòt la.' en français"}, {"role": "assistant", "content": "Tu essaies de réparer la porte."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou ka étidyé chak jou ?' en français"}, {"role": "assistant", "content": "Étudies-tu chaque jour ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou ka étidyé toulé jou ?' en français"}, {"role": "assistant", "content": "Étudies-tu chaque jour ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou ké ay ?' en français"}, {"role": "assistant", "content": "Tu iras ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou ké enmé Tòm.' en français"}, {"role": "assistant", "content": "Tu aimeras Tom."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou ké li on lèt.' en français"}, {"role": "assistant", "content": "Tu liras une lettre."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou ké manjé.' en français"}, {"role": "assistant", "content": "Tu mangeras."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou ké pòté sitwon pou boutik la.' en français"}, {"role": "assistant", "content": "Tu porteras des citrons au magasin."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou manjé.' en français"}, {"role": "assistant", "content": "Tu as mangé."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou mwen gwan ki mwen.' en français"}, {"role": "assistant", "content": "Tu es moins grand que moi."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou mwen gwan ki nou.' en français"}, {"role": "assistant", "content": "Tu es moins grand que nous."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou mwen gwan ki yo.' en français"}, {"role": "assistant", "content": "Tu es plus grand qu'eux."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou mwen gwan pasé mwen.' en français"}, {"role": "assistant", "content": "Tu es moins grand que moi."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou mwen gwan pasé nou.' en français"}, {"role": "assistant", "content": "Tu es moins grand que nous."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou mwen gwan pasé yo.' en français"}, {"role": "assistant", "content": "Tu es plus grand qu'eux."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou mwen gwan pasé'y.' en français"}, {"role": "assistant", "content": "Tu es plus grand qu'elle."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou ni bon vlen ?' en français"}, {"role": "assistant", "content": "As-tu du bon venin ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou ni dé liv ?' en français"}, {"role": "assistant", "content": "As-tu deux livres ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou ni on gwo né.' en français"}, {"role": "assistant", "content": "Tu as un gros nez."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou ni on kansè.' en français"}, {"role": "assistant", "content": "Tu as un cancer."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou pa ka manjé.' en français"}, {"role": "assistant", "content": "Tu ne manges pas."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou pa manjé.' en français"}, {"role": "assistant", "content": "Tu n'as pas mangé."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou pa ni wézon.' en français"}, {"role": "assistant", "content": "Tu n'as pas raison."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou pa té dwèt fè mwen sa.' en français"}, {"role": "assistant", "content": "Tu n'aurais pas dû me faire ça."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou pa té k'ay manjé.' en français"}, {"role": "assistant", "content": "Tu n'allais pas manger."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou pa'a manjé.' en français"}, {"role": "assistant", "content": "Tu ne manges pas."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou pa'a tann ?' en français"}, {"role": "assistant", "content": "Tu es sourd ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou pa'a vwè klè ?' en français"}, {"role": "assistant", "content": "Tu es aveugle ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou pli gwan ki mwen.' en français"}, {"role": "assistant", "content": "Tu es plus grand que moi."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou pli gwan ki nou.' en français"}, {"role": "assistant", "content": "Tu es plus grand que nous."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou pli gwan ki yo.' en français"}, {"role": "assistant", "content": "Tu es plus grand qu'eux."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou pli gwan pasé mwen.' en français"}, {"role": "assistant", "content": "Tu es plus grand que moi."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou pli gwan pasé nou.' en français"}, {"role": "assistant", "content": "Tu es plus grand que nous."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou pli gwan pasé yo.' en français"}, {"role": "assistant", "content": "Tu es plus grand qu'eux."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou pli gwan pasé'y.' en français"}, {"role": "assistant", "content": "Tu es plus grand que lui."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou pèd lajan'w ?' en français"}, {"role": "assistant", "content": "As-tu perdu ton argent ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou pé kwè li.' en français"}, {"role": "assistant", "content": "Vous pouvez le croire."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou pé ké manjé.' en français"}, {"role": "assistant", "content": "Tu ne mangeras pas."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou pé sizé.' en français"}, {"role": "assistant", "content": "Tu peux t'asseoir."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou pé'é manjé.' en français"}, {"role": "assistant", "content": "Tu ne mangeras pas."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou sé lanmou lavi an mwen.' en français"}, {"role": "assistant", "content": "Tu es l'amour de ma vie."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou sé moun isi ?' en français"}, {"role": "assistant", "content": "Es-tu d'ici ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou sé moun isi.' en français"}, {"role": "assistant", "content": "Tu es d'ici."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou sé moun isit ?' en français"}, {"role": "assistant", "content": "Es-tu d'ici ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou sé moun isit.' en français"}, {"role": "assistant", "content": "Tu es d'ici."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou tèbè tèbè a'w !' en français"}, {"role": "assistant", "content": "Tu es trop bête !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou té enmé najé.' en français"}, {"role": "assistant", "content": "Tu aimais nager."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou té k'ay manjé.' en français"}, {"role": "assistant", "content": "Tu allais manger."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou té kouté.' en français"}, {"role": "assistant", "content": "Tu écoutais."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou té ké enmé Tòm.' en français"}, {"role": "assistant", "content": "Tu aimerais Tom."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou vlé vin ?' en français"}, {"role": "assistant", "content": "Tu veux venir ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ou vwè noutout fèt é grandi.' en français"}, {"role": "assistant", "content": "Tu nous à tous vus naître et grandir."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ovwa !' en français"}, {"role": "assistant", "content": "Au revoir !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ovwa.' en français"}, {"role": "assistant", "content": "Au revoir."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pa ay o fon !' en français"}, {"role": "assistant", "content": "Ne vas pas trop loin !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pa bizwen pè.' en français"}, {"role": "assistant", "content": "Ne crains rien."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pa dwaté mwen !' en français"}, {"role": "assistant", "content": "Ne pointe pas ton doigt vers moi !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pa dwété mwen !' en français"}, {"role": "assistant", "content": "Ne pointe pas ton doigt vers moi !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pa fè i pè, ou sav byen i kawdyak.' en français"}, {"role": "assistant", "content": "Ne lui fais peur, tu sais bien qu'il est cardiaque."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pa fè sa !' en français"}, {"role": "assistant", "content": "Ne fais pas ça !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pa manjé sa !' en français"}, {"role": "assistant", "content": "Ne mange pas ça !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pa manjé'y !' en français"}, {"role": "assistant", "content": "Ne mange pas ça !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pa ni ayen !' en français"}, {"role": "assistant", "content": "Ça va !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pa ni ayen pou manjé an péyi-la.' en français"}, {"role": "assistant", "content": "Il n'y a rien à manger dans le pays."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pa ni pwoblèm.' en français"}, {"role": "assistant", "content": "Pas de problème."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pa obiyé mwen ! An enmé'w !' en français"}, {"role": "assistant", "content": "Ne m'oublie pas ! Je t'aime !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pa obliyé mwen ! An enmé'w !' en français"}, {"role": "assistant", "content": "Ne m'oublie pas ! Je t'aime !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pa oubliyé mèt ba-la dèyè pòt-la !' en français"}, {"role": "assistant", "content": "N'oublie pas de fermer la porte avec la barre !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pa pléré ankò !' en français"}, {"role": "assistant", "content": "Ne pleure plus !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pa pléré.' en français"}, {"role": "assistant", "content": "Ne pleure pas."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pa pè !' en français"}, {"role": "assistant", "content": "N'aie pas peur."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pa touché'y !' en français"}, {"role": "assistant", "content": "Ne touche pas à ça !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pa vin si mwen !' en français"}, {"role": "assistant", "content": "N'approche pas de moi !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Palapenn vin.' en français"}, {"role": "assistant", "content": "Pas la peine de venir."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Palapenn vini.' en français"}, {"role": "assistant", "content": "Pas la peine de venir."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Papa an mwen fè on balansin adan pyé mango la.' en français"}, {"role": "assistant", "content": "Mon père a installé une balançoire dans le manguier."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Papa mwen sé on chasè.' en français"}, {"role": "assistant", "content": "Mon père est chasseur."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Papa, an enmé'w !' en français"}, {"role": "assistant", "content": "Papa, je t'aime !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Papa, mwen enmé'w !' en français"}, {"role": "assistant", "content": "Papa, je t'aime !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pisimé an pati.' en français"}, {"role": "assistant", "content": "Mieux vaut que je parte."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pisimé i pati.' en français"}, {"role": "assistant", "content": "Mieux vaut qu'il parte."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pisimé mwen pati.' en français"}, {"role": "assistant", "content": "Mieux vaut que je parte."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pisimé nou pati.' en français"}, {"role": "assistant", "content": "Mieux vaut qu'on parte."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pisimé ou pati.' en français"}, {"role": "assistant", "content": "Mieux vaut que tu partes."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pisimé yo pati.' en français"}, {"role": "assistant", "content": "Mieux vaut qu'ils partent."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pisimé zò pati.' en français"}, {"role": "assistant", "content": "Mieux vaut que vous partiez."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pisimé zòt pati.' en français"}, {"role": "assistant", "content": "Mieux vaut que vous partiez."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Plita, an ké on avyatè !' en français"}, {"role": "assistant", "content": "Dans le futur, je serai aviateur !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Plita, an ké on chanpyon ténis !' en français"}, {"role": "assistant", "content": "Dans le futur, je serai championne de tennis !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Plita, an ké on chantè !' en français"}, {"role": "assistant", "content": "Dans le futur, je serai chanteur !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Plita, an ké on chantèz !' en français"}, {"role": "assistant", "content": "Dans le futur, je serai chanteuse !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Plita, an ké on dansè !' en français"}, {"role": "assistant", "content": "Dans le futur, je serai danseur !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Plita, an ké on dansèz !' en français"}, {"role": "assistant", "content": "Dans le futur, je serai danseuse !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Plita, an ké on jandam !' en français"}, {"role": "assistant", "content": "Dans le futur, je serai gendarme !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Plita, mwen ké on aviyatè !' en français"}, {"role": "assistant", "content": "Dans le futur, je serai aviateur !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Plita, mwen ké on chanpyon ténis !' en français"}, {"role": "assistant", "content": "Dans le futur, je serai championne de tennis !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Plita, mwen ké on chantè !' en français"}, {"role": "assistant", "content": "Dans le futur, je serai chanteur !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Plita, mwen ké on chantèz !' en français"}, {"role": "assistant", "content": "Dans le futur, je serai chanteuse !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Plita, mwen ké on dansè !' en français"}, {"role": "assistant", "content": "Dans le futur, je serai danseur !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Plita, mwen ké on dansèz !' en français"}, {"role": "assistant", "content": "Dans le futur, je serai danseuse !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Plita, mwen ké on jandab !' en français"}, {"role": "assistant", "content": "Dans le futur, je serai gendarme !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ponmlé'w chak jou.' en français"}, {"role": "assistant", "content": "Promène-toi chaque jour."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ponmlé'w toulé jou.' en français"}, {"role": "assistant", "content": "Promène-toi chaque jour."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pou Nwèl, an ké achté balon pou mèt an sapen-la.' en français"}, {"role": "assistant", "content": "Pour Noël, j'achèterai des ballons pour mettre dans le sapin."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pou Nwèl, mwen ké achté balon pou mèt an sapen-la.' en français"}, {"role": "assistant", "content": "Pour Noël, j'achèterai des ballons pour mettre dans le sapin."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pouki i fè sa ?' en français"}, {"role": "assistant", "content": "Pourquoi a-t-il fait ça ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pouki ou fè sa ?' en français"}, {"role": "assistant", "content": "Pourquoi as-tu fait ça ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pouki ou pa enmé mwen ?' en français"}, {"role": "assistant", "content": "Pourquoi ne m'aimes-tu pas ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pouki zòt fè sa ?' en français"}, {"role": "assistant", "content": "Pourquoi avez-vous fait ça ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Poukisa ?' en français"}, {"role": "assistant", "content": "Pourquoi ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Poutan zòt sav lavi-la rèd.' en français"}, {"role": "assistant", "content": "Vous savez pourtant que la vie est dure."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pwan gad !' en français"}, {"role": "assistant", "content": "Sois prudent !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pwan gad.' en français"}, {"role": "assistant", "content": "Sois prudent."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pwasa-lasa bidim !' en français"}, {"role": "assistant", "content": "Ce poisson est immense !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pwason ka viv an dlo.' en français"}, {"role": "assistant", "content": "Les poissons vivent dans l'eau."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pwason-lasa bidim !' en français"}, {"role": "assistant", "content": "Ce poisson est immense !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pwensès-la ka baké abò bèlchawèt a'y.' en français"}, {"role": "assistant", "content": "La princesse est montée dans son carrosse."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pwiyédyé !' en français"}, {"role": "assistant", "content": "Prie !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pwèmyé moun ki ka wèsté Mawi-Galant, sé té Awawak.' en français"}, {"role": "assistant", "content": "Les premiers habitants de Marie-Galante furent des Arawak."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Pwéson-lasa bidim !' en français"}, {"role": "assistant", "content": "Ce poisson est immense !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Péken gwan pasé Wonm.' en français"}, {"role": "assistant", "content": "Pékin est plus grand que Rome."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Péken pli gwan ki Wonm.' en français"}, {"role": "assistant", "content": "Pékin est plus grand que Rome."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Péken pli gwan pasé Wonm.' en français"}, {"role": "assistant", "content": "Pékin est plus grand que Rome."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Répons-lasa sé érè.' en français"}, {"role": "assistant", "content": "Cette réponse est fausse."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sa bon menm !' en français"}, {"role": "assistant", "content": "C'est très bon !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sa k'ay ?' en français"}, {"role": "assistant", "content": "Ça va ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sa k'ay é ou menm ?' en français"}, {"role": "assistant", "content": "Je suis bien, et toi ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sa k'ay.' en français"}, {"role": "assistant", "content": "Ça va."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sa ka fè dézan i ni on kansè, mé i ka kité byen.' en français"}, {"role": "assistant", "content": "Il a un cancer depuis deux ans, mais il resiste bien."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sa ka fè ywit mwa i ansent.' en français"}, {"role": "assistant", "content": "Elle est enceinte de huit mois."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sa ki wivé'w ?' en français"}, {"role": "assistant", "content": "Que t'est-il arrivé ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sa kon sa.' en français"}, {"role": "assistant", "content": "C'est comme ça."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sa pa asiwé.' en français"}, {"role": "assistant", "content": "Ce n'est pas certain."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sa posib.' en français"}, {"role": "assistant", "content": "C'est possible."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sa yo fè-la té mové, sété on péché.' en français"}, {"role": "assistant", "content": "Ce qu'ils ont fait était mal. C'était un péché."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sami gwan pasé mwen.' en français"}, {"role": "assistant", "content": "Sami est plus grand que moi."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sami pli gwan ki mwen.' en français"}, {"role": "assistant", "content": "Sami est plus grand que moi."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sami pli gwan pasé mwen.' en français"}, {"role": "assistant", "content": "Sami est plus grand que moi."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Si !' en français"}, {"role": "assistant", "content": "Si !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Si ?' en français"}, {"role": "assistant", "content": "Si ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Si a pa té pou di.' en français"}, {"role": "assistant", "content": "S'il ne tenait qu'à moi."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Si an ka li kenz paj toulé jou...' en français"}, {"role": "assistant", "content": "Si je lis chaque jour quinze pages..."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Si an vlé.' en français"}, {"role": "assistant", "content": "Si je veux."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Si i vlé.' en français"}, {"role": "assistant", "content": "S'il veut."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Si mwen ka li kenz paj chak jou...' en français"}, {"role": "assistant", "content": "Si je lis chaque jour quinze pages..."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Si mwen vlé.' en français"}, {"role": "assistant", "content": "Si je veux."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Si nou vlé.' en français"}, {"role": "assistant", "content": "Si nous voulons."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Si ou ka di'y.' en français"}, {"role": "assistant", "content": "Si tu le dis."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Si ou two baladè, ou pé'é manjé'w !' en français"}, {"role": "assistant", "content": "Si tu passes trop de temps à te balader, tu n'auras rien à manger !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Si ou vlé.' en français"}, {"role": "assistant", "content": "Si tu veux."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Si yo vlé.' en français"}, {"role": "assistant", "content": "S'ils veulent."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Si zòt vlé.' en français"}, {"role": "assistant", "content": "Si vous voulez."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Siléma-lasa ka fè yo pè.' en français"}, {"role": "assistant", "content": "Ce film leur fait peur."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Siwano pala.' en français"}, {"role": "assistant", "content": "Cyrano n’est pas là."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Soukou !' en français"}, {"role": "assistant", "content": "Au secours !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Soulyé an mwen gwan pasé ta'w.' en français"}, {"role": "assistant", "content": "Mes chaussures sont plus grandes que les tiennes."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Soulyé an mwen pli gwan ki ta'w.' en français"}, {"role": "assistant", "content": "Mes chaussures sont plus grandes que les tiennes."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Soulyé an mwen pli gwan pasé ta'w.' en français"}, {"role": "assistant", "content": "Mes chaussures sont plus grandes que les tiennes."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Soup-la cho.' en français"}, {"role": "assistant", "content": "La soupe est chaude."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Souplé.' en français"}, {"role": "assistant", "content": "Je vous en prie."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Syèl !' en français"}, {"role": "assistant", "content": "Ciel !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Syèl-la blé.' en français"}, {"role": "assistant", "content": "Le ciel est bleu."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Syèl-la ké chajé.' en français"}, {"role": "assistant", "content": "Il fera nuageux."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sè a'w ka dòmi.' en français"}, {"role": "assistant", "content": "Votre sœur est en train de dormir."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sèkré a'y sé ta'y.' en français"}, {"role": "assistant", "content": "Il garde ses secrets pour lui."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sé fimèl-bèf an mwen.' en français"}, {"role": "assistant", "content": "C'est ma vache."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sé konsa an yé.' en français"}, {"role": "assistant", "content": "C'est ainsi que je suis."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sé konsa i yé.' en français"}, {"role": "assistant", "content": "C'est ainsi qu'il est."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sé konsa mwen yé.' en français"}, {"role": "assistant", "content": "C'est ainsi que je suis."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sé konsa nou yé.' en français"}, {"role": "assistant", "content": "C'est ainsi que nous sommes."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sé konsa yo yé.' en français"}, {"role": "assistant", "content": "C'est ainsi qu'ils sont."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sé konsa zò yé.' en français"}, {"role": "assistant", "content": "C'est ainsi que vous êtes."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sé konsa zòt yé.' en français"}, {"role": "assistant", "content": "C'est ainsi que vous êtes."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sé kòyòt-la ka hélé lannywit.' en français"}, {"role": "assistant", "content": "Les coyotes hurlent la nuit."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sé liv-lasa bazé si Labib.' en français"}, {"role": "assistant", "content": "Ces livres sont basés sur la Bible."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sé on bon chantè toubòlman.' en français"}, {"role": "assistant", "content": "C'est un très bon chanteur."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sé on bon chantèz toubòlman.' en français"}, {"role": "assistant", "content": "C'est une très bonne chanteuse."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sé on bon dansè toubòlman.' en français"}, {"role": "assistant", "content": "C'est un très bon danseur."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sé on bon dansèz toubòlman.' en français"}, {"role": "assistant", "content": "C'est une très bonne danseuse."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sé on bon kavalyèz toubòlman.' en français"}, {"role": "assistant", "content": "C'est une très bonne cavalière."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sé on bon kavalyé toubòlman.' en français"}, {"role": "assistant", "content": "C'est un très bon cavalier."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sé on bon mizisyen toubòlman.' en français"}, {"role": "assistant", "content": "C'est un très bon musicien."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sé on bon najè toubòlman.' en français"}, {"role": "assistant", "content": "C'est un très bon nageur."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sé on bon najèz toubòlman.' en français"}, {"role": "assistant", "content": "C'est une très bonne nageuse."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sé pa ti kouwi an kouwi !' en français"}, {"role": "assistant", "content": "Qu'est-ce que j'ai couru !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sé timoun an nou.' en français"}, {"role": "assistant", "content": "C'est notre enfant."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sé twant désanm ki ké ba i katwan.' en français"}, {"role": "assistant", "content": "Il aura quatre ans le trente décembre."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sé twant désanm ki ké ba'y katwan.' en français"}, {"role": "assistant", "content": "Il aura quatre ans le trente décembre."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sé zétwal-la ka kléwé adan syèl-la.' en français"}, {"role": "assistant", "content": "Les étoiles brillent dans le ciel."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sé èspwé an fè sa !' en français"}, {"role": "assistant", "content": "Je l'ai fait exprès !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sé èspwé i fè sa !' en français"}, {"role": "assistant", "content": "Elle l'a fait exprès !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sé èspwé mwen fè sa !' en français"}, {"role": "assistant", "content": "Je l'ai fait exprès !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sé èspwé nou fè sa !' en français"}, {"role": "assistant", "content": "Nous l'avons fait exprès !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sé èspwé ou fè sa !' en français"}, {"role": "assistant", "content": "Tu l'as fait exprès !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sé èspwé yo fè sa !' en français"}, {"role": "assistant", "content": "Ils l'ont fait exprès !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sé'y menm ki fè kaz a'y.' en français"}, {"role": "assistant", "content": "C'est lui-même qui a construit sa maison."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sòti ou la ! Ou ka jéné mwen !' en français"}, {"role": "assistant", "content": "Sauve-toi de là, tu me gênes."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Sòti.' en français"}, {"role": "assistant", "content": "Sors."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tan-la ké bèl.' en français"}, {"role": "assistant", "content": "Il va faire beau."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tan-la ké cho.' en français"}, {"role": "assistant", "content": "Il va faire chaud."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ti fiy-la pati o fon bwa la.' en français"}, {"role": "assistant", "content": "La fillette est partie au fin fond des bois."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ti gason-la pa pwan bak.' en français"}, {"role": "assistant", "content": "Le jeune garçon a raté son bac."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ti non an mwen sé Èstéfann.' en français"}, {"role": "assistant", "content": "Je m'appelle Sally."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Timoun an mwen pasé lègzanmen a'y.' en français"}, {"role": "assistant", "content": "Mon enfant a été reçu à son examen."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Timoun-la malad.' en français"}, {"role": "assistant", "content": "L'enfant est malade."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tin swasant sigonn adan on minit.' en français"}, {"role": "assistant", "content": "Il y a soixante secondes dans une minute."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tinon an mwen sé Andréa.' en français"}, {"role": "assistant", "content": "Je m'appelle Andrea."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tinon an mwen sé Anri.' en français"}, {"role": "assistant", "content": "Je m'appelle Henri."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tinon an mwen sé Dàn.' en français"}, {"role": "assistant", "content": "Mon nom est Dan."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tinon an mwen sé Igo.' en français"}, {"role": "assistant", "content": "Je m'appelle Hugo."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tinon an mwen sé Jan.' en français"}, {"role": "assistant", "content": "Je m'appelle John."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tinon an mwen sé Jòj.' en français"}, {"role": "assistant", "content": "Je m'appelle Georges."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tinon an mwen sé Lika.' en français"}, {"role": "assistant", "content": "Je m'appelle Lucas."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tinon an mwen sé Lori.' en français"}, {"role": "assistant", "content": "Je m'appelle Laurie."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tinon an mwen sé Lwi.' en français"}, {"role": "assistant", "content": "Je m'appelle Luis."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tinon an mwen sé Nami.' en français"}, {"role": "assistant", "content": "Je m'appelle Nami."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tinon an mwen sé Sacha.' en français"}, {"role": "assistant", "content": "Je m'appelle Sasha."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tinon an mwen sé Sara.' en français"}, {"role": "assistant", "content": "Je m'appelle Sara."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tinon an mwen sé Yamada.' en français"}, {"role": "assistant", "content": "Mon nom est Yamada."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tinon an mwen sé Yatarou.' en français"}, {"role": "assistant", "content": "Je m'appelle Yatarou."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tinon an mwen sé Émili.' en français"}, {"role": "assistant", "content": "Je m'appelle Emily."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tokyo gwan pasé Yokohama.' en français"}, {"role": "assistant", "content": "Tokyo est plus grande que Yokohama."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tokyo pli gwan ki Yokohama.' en français"}, {"role": "assistant", "content": "Tokyo est plus grande que Yokohama."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tokyo pli gwan pasé Yokohama.' en français"}, {"role": "assistant", "content": "Tokyo est plus grande que Yokohama."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tom gwan pasé Mawi.' en français"}, {"role": "assistant", "content": "Tom est plus grand que Mary."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tou-la fon.' en français"}, {"role": "assistant", "content": "Le trou est profond."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tout moun ka sav ou ka manti.' en français"}, {"role": "assistant", "content": "Tout le monde sait que vous mentez."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tout moun komansé pléré lè yo ankofré mò-la.' en français"}, {"role": "assistant", "content": "Tout le monde se mit à pleurer quand on mit en bière le défunt."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tout moun konnèt li.' en français"}, {"role": "assistant", "content": "Tous le connaissent."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tout moun koumansé pléré lè yo ankofré mò-la.' en français"}, {"role": "assistant", "content": "Tout le monde se mit à pleurer quand on mit en bière le défunt."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Touvé ki koté pwoblèm la yé.' en français"}, {"role": "assistant", "content": "Trouvez où est le problème."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Touvé ola poblèm la yé.' en français"}, {"role": "assistant", "content": "Trouvez où est le problème."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Touvé otila pwoblèm la yé.' en français"}, {"role": "assistant", "content": "Trouvez où est le problème."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tòm enmé chanté.' en français"}, {"role": "assistant", "content": "Tom aime chanter."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tòm enmé li.' en français"}, {"role": "assistant", "content": "Tom aime lire."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tòm enmé najé.' en français"}, {"role": "assistant", "content": "Tom aime nager."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tòm enmé péché.' en français"}, {"role": "assistant", "content": "Tom aime pêcher."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tòm enmé zòt !' en français"}, {"role": "assistant", "content": "Tom vous aime !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tòm enmé zòt.' en français"}, {"role": "assistant", "content": "Tom vous aime."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tòm enmé'w.' en français"}, {"role": "assistant", "content": "Tom t'aime."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tòm fè on aksidan loto.' en français"}, {"role": "assistant", "content": "Thomas a eu un accident de voiture."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tòm gwan pasé Mayk.' en français"}, {"role": "assistant", "content": "Tom est plus grand que Mike."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tòm gwan pasé manman'y.' en français"}, {"role": "assistant", "content": "Tom est plus grand que sa mère."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tòm gwan pasé mwen.' en français"}, {"role": "assistant", "content": "Tom est plus grand que moi."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tòm ka li jounal-la chak jou.' en français"}, {"role": "assistant", "content": "Tom lit le journal chaque jour."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tòm ka li jounal-la toulé jou.' en français"}, {"role": "assistant", "content": "Tom lit le journal chaque jour."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tòm ka najé chak jou.' en français"}, {"role": "assistant", "content": "Tom nage chaque jour."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tòm ka najé toulé jou.' en français"}, {"role": "assistant", "content": "Tom nage chaque jour."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tòm pli gwan ki Mawi.' en français"}, {"role": "assistant", "content": "Tom est plus grand que Mary."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tòm pli gwan ki Mayk.' en français"}, {"role": "assistant", "content": "Tom est plus grand que Mike."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tòm pli gwan ki manman'y.' en français"}, {"role": "assistant", "content": "Tom est plus grand que sa mère."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tòm pli gwan ki mwen.' en français"}, {"role": "assistant", "content": "Tom est plus grand que moi."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tòm pli gwan pasé Mawi.' en français"}, {"role": "assistant", "content": "Tom est plus grand que Mary."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tòm pli gwan pasé Mayk.' en français"}, {"role": "assistant", "content": "Tom est plus grand que Mike."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tòm pli gwan pasé manman'y.' en français"}, {"role": "assistant", "content": "Tom est plus grand que sa mère."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tòm pli gwan pasé mwen.' en français"}, {"role": "assistant", "content": "Tom est plus grand que moi."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tòm sé on zanmi a sé bèt-la.' en français"}, {"role": "assistant", "content": "Tom est un ami des animaux."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tòm sé on zanmi a sé zannimo-la.' en français"}, {"role": "assistant", "content": "Tom est un ami des animaux."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Tòm toujou ka pléré.' en français"}, {"role": "assistant", "content": "Tom pleure tout le temps."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Van ké vanté.' en français"}, {"role": "assistant", "content": "Il y aura du vent."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Vant-la roupran mwen ankò.' en français"}, {"role": "assistant", "content": "Le mal de ventre m'a repris."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Vil gwan pasé vilaj.' en français"}, {"role": "assistant", "content": "Les villes sont plus grandes que les villages."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Vil pli gwan ki vilaj.' en français"}, {"role": "assistant", "content": "Les villes sont plus grandes que les villages."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Vil pli gwan pasé vilaj.' en français"}, {"role": "assistant", "content": "Les villes sont plus grandes que les villages."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Vin !' en français"}, {"role": "assistant", "content": "Viens !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Vin ba papa on ti ba !' en français"}, {"role": "assistant", "content": "Viens faire un bisou à papa !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Vin.' en français"}, {"role": "assistant", "content": "Viens."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Vini !' en français"}, {"role": "assistant", "content": "Viens !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Vini.' en français"}, {"role": "assistant", "content": "Viens."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Volé !' en français"}, {"role": "assistant", "content": "Vole !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Vòlkan-la ka pété.' en français"}, {"role": "assistant", "content": "Le volcan entre en éruption."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Wi !' en français"}, {"role": "assistant", "content": "Oui !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Wi, an ka pléré.' en français"}, {"role": "assistant", "content": "Oui, je pleure."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Wi, an nou a'y.' en français"}, {"role": "assistant", "content": "Oui, allons-y."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Wi, dé.' en français"}, {"role": "assistant", "content": "Oui, deux."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Wi, mwen ka pléré.' en français"}, {"role": "assistant", "content": "Oui, je pleure."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Wi, poukisa ?' en français"}, {"role": "assistant", "content": "Oui, pourquoi ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Wi.' en français"}, {"role": "assistant", "content": "Oui."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Wi. Mèsi.' en français"}, {"role": "assistant", "content": "Oui. Merci."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Wisi gwan pasé Pliton.' en français"}, {"role": "assistant", "content": "La Russie est plus grande que Pluton."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Wisi pli gwan ki Pliton.' en français"}, {"role": "assistant", "content": "La Russie est plus grande que Pluton."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Wisi pli gwan pasé Pliton.' en français"}, {"role": "assistant", "content": "La Russie est plus grande que Pluton."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Woté ba-la asi bouwikèt-la !' en français"}, {"role": "assistant", "content": "Débâte l'âne !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Wouvini !' en français"}, {"role": "assistant", "content": "Reviens !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Wouvini dèmen.' en français"}, {"role": "assistant", "content": "Revenez demain."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Wè !' en français"}, {"role": "assistant", "content": "Oui !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Wè, an ka pléré.' en français"}, {"role": "assistant", "content": "Oui, je pleure."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Wè, an nou a'y.' en français"}, {"role": "assistant", "content": "Oui, allons-y."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Wè, dé.' en français"}, {"role": "assistant", "content": "Oui, deux."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Wè, mwen ka pléré.' en français"}, {"role": "assistant", "content": "Oui, je pleure."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Wè, poukisa ?' en français"}, {"role": "assistant", "content": "Oui, pourquoi ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Wè.' en français"}, {"role": "assistant", "content": "Oui."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Wè. Mèsi.' en français"}, {"role": "assistant", "content": "Oui. Merci."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Wédé mwen !' en français"}, {"role": "assistant", "content": "Aidez-moi !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Wéponn !' en français"}, {"role": "assistant", "content": "Réponds !"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Wòb la pa pwòp.' en français"}, {"role": "assistant", "content": "La robe n'est pas propre."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo di ni on balenn ki échwé Kapèstè.' en français"}, {"role": "assistant", "content": "On dit qu'il y a une baleine échouée à Capesterre."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo dwèt pa té manjé asé.' en français"}, {"role": "assistant", "content": "Ils n'avaient pas dû manger assez."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo enmé Tòm.' en français"}, {"role": "assistant", "content": "Ils aimaient Tom."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo enmé chanté.' en français"}, {"role": "assistant", "content": "Ils aiment chanter."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo fè on bonbon.' en français"}, {"role": "assistant", "content": "Ils ont fait un gâteau."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo k'ay an lanmès.' en français"}, {"role": "assistant", "content": "Ils vont à la messe."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo ka alé an lanmès.' en français"}, {"role": "assistant", "content": "Ils vont à la messe."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo ka ba bèf bwè.' en français"}, {"role": "assistant", "content": "Ils font boire les bœufs."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo ka bwè dlo on chay.' en français"}, {"role": "assistant", "content": "Ils boivent beaucoup d'eau."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo ka bwè dlo on lo.' en français"}, {"role": "assistant", "content": "Ils boivent beaucoup d'eau."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo ka bwè dlo on pil.' en français"}, {"role": "assistant", "content": "Ils boivent beaucoup d'eau."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo ka bwè dlo.' en français"}, {"role": "assistant", "content": "Elles boivent de l'eau."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo ka chèché travay.' en français"}, {"role": "assistant", "content": "Ils cherchent du travail."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo ka fè on bonbon.' en français"}, {"role": "assistant", "content": "Ils font un gâteau."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo ka gadé'w.' en français"}, {"role": "assistant", "content": "Ils vous regardent."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo ka limé blan balenn la.' en français"}, {"role": "assistant", "content": "Ils allument la bougie."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo ka limé bouji-la.' en français"}, {"role": "assistant", "content": "Ils allument la bougie."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo ka maché vit vit vit.' en français"}, {"role": "assistant", "content": "Ils marchent très très vite."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo ka maché vit vit.' en français"}, {"role": "assistant", "content": "Ils marchent très vite."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo ka manjé diwi.' en français"}, {"role": "assistant", "content": "Ils mangent du riz."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo ka manjé pen.' en français"}, {"role": "assistant", "content": "Ils mangent du pain."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo ka manjé.' en français"}, {"role": "assistant", "content": "Ils sont en train de manger."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo ka wété adan on gwan gwan kaz.' en français"}, {"role": "assistant", "content": "Ils vivent dans une immense maison."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo kouché yonn anlè lòt.' en français"}, {"role": "assistant", "content": "Ils sont couchés l'un sur l'autre."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo ké manjé.' en français"}, {"role": "assistant", "content": "Ils mangeront."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo mandé mwen ki moun an té yé.' en français"}, {"role": "assistant", "content": "Elles m'ont demandé qui j'étais."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo mandé mwen ki moun mwen té yé.' en français"}, {"role": "assistant", "content": "Ils m'ont demandé qui j'étais."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo manjé anki patat.' en français"}, {"role": "assistant", "content": "Ils n'ont mangé que des patates douces."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo manjé anni dé patat.' en français"}, {"role": "assistant", "content": "Ils n'ont mangé que deux patates douces."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo manjé.' en français"}, {"role": "assistant", "content": "Ils mangent."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo mété'y lajòl padavwa i ja fè twòp ka.' en français"}, {"role": "assistant", "content": "On l'a emprisonné parce qu'il a commis de très nombreux délits."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo ni katwèven dòla.' en français"}, {"role": "assistant", "content": "Ils ont quatre-vingts dollars."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo ni katwèvendis dòla.' en français"}, {"role": "assistant", "content": "Ils ont quatre-vingt-dix dollars."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo ni on gwo né.' en français"}, {"role": "assistant", "content": "Ils ont un gros nez."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo pa ka manjé.' en français"}, {"role": "assistant", "content": "Ils ne mangent pas."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo pa manjé.' en français"}, {"role": "assistant", "content": "Ils n'avaient pas mangé."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo pa té k'ay manjé.' en français"}, {"role": "assistant", "content": "Ils n'allaient pas manger."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo pa'a manjé.' en français"}, {"role": "assistant", "content": "Ils ne mangent pas."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo pé ké manjé.' en français"}, {"role": "assistant", "content": "Ils ne mangeront pas."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo pé'é manjé.' en français"}, {"role": "assistant", "content": "Ils ne mangeront pas."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo sé moun Fwans.' en français"}, {"role": "assistant", "content": "Ils sont français."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo sé moun isi ?' en français"}, {"role": "assistant", "content": "Sont-ils d'ici ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo sé moun isi.' en français"}, {"role": "assistant", "content": "Ils sont d'ici."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo sé moun isit ?' en français"}, {"role": "assistant", "content": "Sont-ils d'ici ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo sé moun isit.' en français"}, {"role": "assistant", "content": "Ils sont d'ici."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo té enmé Mawi.' en français"}, {"role": "assistant", "content": "Elles aimaient Marie."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo té k'ay manjé.' en français"}, {"role": "assistant", "content": "Ils allaient manger."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo té ka bo yo.' en français"}, {"role": "assistant", "content": "Ils s'embrassaient."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo té ka bo yonn a lòt.' en français"}, {"role": "assistant", "content": "Ils s'embrassaient."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo té ka bo.' en français"}, {"role": "assistant", "content": "Ils s'embrassaient."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo té ka réré anba mòn-la.' en français"}, {"role": "assistant", "content": "Ils habitent en bas de la colline."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo té las.' en français"}, {"role": "assistant", "content": "Ils étaient fatigués."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo té najé adan lak lasa.' en français"}, {"role": "assistant", "content": "Elles nageaient dans ce lac."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo té najé.' en français"}, {"role": "assistant", "content": "Ils nageaient."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo volé papyé an mwen èvè pòtmonné-la.' en français"}, {"role": "assistant", "content": "On m'a volé mes papiers et mon porte-monnaie."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yo volé papyé an mwen.' en français"}, {"role": "assistant", "content": "On m'a volé mes papiers."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Yonn, dé, twa, kat, senk, sis, sèt, ywit, nèf, dis.' en français"}, {"role": "assistant", "content": "Un, deux, trois, quatre, cinq, six, sept, huit, neuf, dix."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Zouk-la sé sèl médikaman nou ni.' en français"}, {"role": "assistant", "content": "Le zouk est le seul remède que nous ayons."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Zouti-la pèrmèt nou travay.' en français"}, {"role": "assistant", "content": "L'outil nous permet de travailler."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Zò douvan ?' en français"}, {"role": "assistant", "content": "Vous êtes devant ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Zò enmé dansé.' en français"}, {"role": "assistant", "content": "Vous aimez nager."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Zò ka fè sa chak jou ?' en français"}, {"role": "assistant", "content": "Faites-vous cela chaque jour ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Zò ka limé blan balenn la.' en français"}, {"role": "assistant", "content": "Vous allumez la bougie."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Zò ka limé bouji-la.' en français"}, {"role": "assistant", "content": "Vous allumez la bougie."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Zò ka étidyé chak jou ?' en français"}, {"role": "assistant", "content": "Étudiez-vous chaque jour ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Zò ni on gwo né.' en français"}, {"role": "assistant", "content": "Vous avez un gros nez."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Zò pli gwan ki mwen.' en français"}, {"role": "assistant", "content": "Vous êtes plus grands que moi."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Zò pli gwan pasé mwen.' en français"}, {"role": "assistant", "content": "Vous êtes plus grands que moi."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Zò sé moun isit.' en français"}, {"role": "assistant", "content": "Vous êtes d'ici."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Zòt douvan ?' en français"}, {"role": "assistant", "content": "Vous êtes devant ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Zòt enmé najé.' en français"}, {"role": "assistant", "content": "Vous aimez nager."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Zòt gwan pasé mwen.' en français"}, {"role": "assistant", "content": "Vous êtes plus grands que moi."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Zòt ka chèché travay.' en français"}, {"role": "assistant", "content": "Vous cherchez du travail."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Zòt ka fè sa toulé jou ?' en français"}, {"role": "assistant", "content": "Faites-vous cela chaque jour ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Zòt ka konpwann mwen ?' en français"}, {"role": "assistant", "content": "Vous me comprenez ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Zòt ka manjé.' en français"}, {"role": "assistant", "content": "Vous mangez."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Zòt ka étidyé chak jou ?' en français"}, {"role": "assistant", "content": "Étudiez-vous chaque jour ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Zòt ké manjé.' en français"}, {"role": "assistant", "content": "Vous mangerez."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Zòt manjé.' en français"}, {"role": "assistant", "content": "Vous avez mangé."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Zòt ni on gwo né.' en français"}, {"role": "assistant", "content": "Vous avez un gros nez."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Zòt pa ka manjé.' en français"}, {"role": "assistant", "content": "Vous ne mangez pas."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Zòt pa manjé.' en français"}, {"role": "assistant", "content": "Vous n'avez pas mangé."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Zòt pa té k'ay manjé.' en français"}, {"role": "assistant", "content": "Vous n'alliez pas manger."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Zòt pa'a manjé.' en français"}, {"role": "assistant", "content": "Vous ne mangez pas."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Zòt pé ké manjé.' en français"}, {"role": "assistant", "content": "Vous ne mangerez pas."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Zòt pé'é manjé.' en français"}, {"role": "assistant", "content": "Vous ne mangerez pas."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Zòt sé moun isi ?' en français"}, {"role": "assistant", "content": "Êtes-vous d'ici ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Zòt sé moun isi.' en français"}, {"role": "assistant", "content": "Vous êtes d'ici."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Zòt sé moun isit ?' en français"}, {"role": "assistant", "content": "Êtes-vous d'ici ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Zòt té enmé najé.' en français"}, {"role": "assistant", "content": "Vous aimiez nager."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Zòt té k'ay manjé.' en français"}, {"role": "assistant", "content": "Vous alliez manger."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Zòt té ké enmé Tòm.' en français"}, {"role": "assistant", "content": "Vous aimeriez Tom."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais '« Tòm ! » « Mawi ! »' en français"}, {"role": "assistant", "content": "« Tom ! » « Mary ! »"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès i ka dòmi ?' en français"}, {"role": "assistant", "content": "Il dort ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès ni ou tab pou senk moun ?' en français"}, {"role": "assistant", "content": "Avez-vous une table pour cinq ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès nou ké wivwè on jou ?' en français"}, {"role": "assistant", "content": "Est-ce qu'on se reverra ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès ou enmé Vagnè ?' en français"}, {"role": "assistant", "content": "Aimes-tu Wagner ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès ou enmé apwann ?' en français"}, {"role": "assistant", "content": "Aimes-tu étudier ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès ou enmé chanté ?' en français"}, {"role": "assistant", "content": "Aimes-tu chanter ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès ou enmé dansé ?' en français"}, {"role": "assistant", "content": "Aimez-vous danser ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès ou enmé jwé ?' en français"}, {"role": "assistant", "content": "Aimez-vous jouer ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès ou enmé kouwi ?' en français"}, {"role": "assistant", "content": "Aimes-tu courir ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès ou enmé mwen ?' en français"}, {"role": "assistant", "content": "M'aimes-tu ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès ou enmé najé ?' en français"}, {"role": "assistant", "content": "Aimes-tu nager ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès ou enmé étidyé ?' en français"}, {"role": "assistant", "content": "Aimes-tu étudier ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès ou enmé'y ?' en français"}, {"role": "assistant", "content": "L'aimes-tu ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès ou fwè ?' en français"}, {"role": "assistant", "content": "Êtes-vous frères ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès ou ja fè manjé la ?' en français"}, {"role": "assistant", "content": "As-tu préparé le repas ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès ou ja pwan pa a’w ?' en français"}, {"role": "assistant", "content": "As-tu déjà pris ta part ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès ou ka fimé ?' en français"}, {"role": "assistant", "content": "Fumez-vous ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès ou ka konpwann ?' en français"}, {"role": "assistant", "content": "Comprenez-vous ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès ou ka kouté ?' en français"}, {"role": "assistant", "content": "Tu écoutes ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès ou ka twavay ?' en français"}, {"role": "assistant", "content": "Travaillez-vous ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès ou pawé ?' en français"}, {"role": "assistant", "content": "Es-tu prêt ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès ou pé ban mwen on pal ?' en français"}, {"role": "assistant", "content": "Peux-tu m'aider ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès ou pé di dé ékip-lasa alabalans ?' en français"}, {"role": "assistant", "content": "Est-ce qu'on peut dire que ces deux équipes sont à égalité ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès ou pé woté katwèven éwo ?' en français"}, {"role": "assistant", "content": "Peux-tu retirer quatre-vingts euros ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès ou pé woté kawant éwo ?' en français"}, {"role": "assistant", "content": "Peux-tu retirer quarante euros ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès ou pé woté mil éwo ?' en français"}, {"role": "assistant", "content": "Peux-tu retirer mille euros ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès ou pé woté san éwo ?' en français"}, {"role": "assistant", "content": "Peux-tu retirer cent euros ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès ou pé woté senkant éwo ?' en français"}, {"role": "assistant", "content": "Peux-tu retirer cinquante euros ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès ou pé woté swasant éwo ?' en français"}, {"role": "assistant", "content": "Peux-tu retirer soixante euros ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès ou pé woté twant éwo ?' en français"}, {"role": "assistant", "content": "Peux-tu retirer trente euros ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès ou pé woudi sa ?' en français"}, {"role": "assistant", "content": "Pouvez-vous répéter cela ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès ou pé woudi sa ban mwen ?' en français"}, {"role": "assistant", "content": "Pouvez-vous répéter cela ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès ou té enmé Tòm ?' en français"}, {"role": "assistant", "content": "Aimais-tu Tom ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès ou té ké pé ban nou vwè kat-la ?' en français"}, {"role": "assistant", "content": "Peut-on avoir la carte, s'il vous plaît ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès yo pé viv san lanmou ?' en français"}, {"role": "assistant", "content": "Peut-on vivre sans amour?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès zòt enmé Vagnè ?' en français"}, {"role": "assistant", "content": "Aimez-vous Wagner ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès zòt enmé apwann ?' en français"}, {"role": "assistant", "content": "Aimez-vous étudier ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès zòt enmé chanté ?' en français"}, {"role": "assistant", "content": "Aimez-vous chanter ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès zòt enmé dansé ?' en français"}, {"role": "assistant", "content": "Aimez-vous danser ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès zòt enmé étidyé ?' en français"}, {"role": "assistant", "content": "Aimez-vous étudier ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès zòt ni kwab ?' en français"}, {"role": "assistant", "content": "Vous avez des crabes ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Ès zòt té enmé Tòm ?' en français"}, {"role": "assistant", "content": "Aimiez-vous Tom ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Èskizé mwen, ki lè i yé ?' en français"}, {"role": "assistant", "content": "Pardon, quelle heure est-il ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Èskizé nou, Èstéfann vlé mandé'w on biten.' en français"}, {"role": "assistant", "content": "Excusez-nous, Stéphane veut vous demander quelque chose."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Èskè nou ké wivwè on jou ?' en français"}, {"role": "assistant", "content": "Nous reverrons-nous un jour ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Èstéfann ka tayé gazon-la.' en français"}, {"role": "assistant", "content": "Stéphane tond le gazon."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Èstéfann vlé mandé'w on biten.' en français"}, {"role": "assistant", "content": "Stéphane veut vous demander quelque chose."}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'É zòt ?' en français"}, {"role": "assistant", "content": "Et vous ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'É'w ?' en français"}, {"role": "assistant", "content": "Et toi ?"}]}
+{"messages": [{"role": "user", "content": "peux tu traduire le créole martiniquais 'Étenn limyè-la !' en français"}, {"role": "assistant", "content": "Éteins la lumière !"}]}

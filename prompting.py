@@ -10,41 +10,50 @@ from utils.utils import read_data
 load_dotenv()
 
 if __name__ == "__main__":
-  path_to_bitexts = Path("data/bitexts")
-  out_path = Path("data/data.jsonl")
+  # path_to_bitexts = Path("data/confiant/bitexts")
+  path_to_bitexts = Path("data/tatoeba/bitexts")
   path_to_prompts = Path("prompts")
-  path_to_result = Path("results")
-  num_examples = 100
-  num_tests = 10
-  fr, mq = read_data(path_to_bitexts)
-  prompt_examples = [fr[i] + " => " + mq[i] for i in range(num_examples)]
-  test_examples, test_answers = fr[num_examples:(num_examples+num_tests)], mq[num_examples:(num_examples+num_tests)]
-
-  # system_role = f"""You are a professional translator speaking fluent Martinican Creole and French. 
-  # When the user sends you a list of sentences in French, please simply return a list of the translations
-  # in Martinican creole. 
-  # To illustrate the task, I am going to give you some examples of sentences in French, and then their translations in Martinican creole. 
-  # The sentences will be organized in the following way: first the sentence in French, then an arrow => and then the sentence 
-  # in Martinican creole. 
-  # Here are the examples: \n {"\n".join(prompt_examples)}.
-  # """
-
+  path_to_result = Path("results/tatoeba")
+  test_examples, = read_data([path_to_bitexts / "eval.fra"])
+  model_name = "ft:gpt-3.5-turbo-1106:personal::8O8LT6Ht"
+  # model_name = "gpt-4-1106-preview"
+  # model_name = "ft:gpt-3.5-turbo-0613:personal::8bY5JdGO"
+  exclude_prompts = ["prompt_en", "prompt_fr"]
+  batch_size = 1
+  total_size = len(test_examples)
+  num_batches = total_size // batch_size + int(total_size % batch_size != 0)
   prompts = []
   for promptfile in path_to_prompts.glob("*.txt"):
      with open(promptfile, "r", encoding="utf-8") as fp:
         prompts.append((promptfile.stem, fp.read()))
   
-  client = OpenAI(api_key=os.getenv("OPENAI_KEY"))
-  path_to_result.mkdir(exist_ok=True)
+  client = OpenAI(api_key=os.getenv("OPENAI_KEY"), organization=os.getenv("ORGANIZATION_ID"))
+  model_path_name = "_".join(model_name.split(":")[1:]) if ':' in model_name else model_name
+  path_out = path_to_result / (model_path_name)
+  path_out.mkdir(parents=True, exist_ok=True)
   for name, prompt in prompts:
-    completion = client.chat.completions.create(
-      model="gpt-4-1106-preview",
-      seed=0,
-      messages=[
-        {"role": "system", "content": prompt},
-        {"role": "user", "content": "\n".join(test_examples)}
-      ]
-    )
-    res = completion.choices[0].message.content.split("\n")
-    df = pd.DataFrame(test_examples,res)
-    df.to_csv(path_to_result / f"answer_to_{name}.csv")
+    if name in exclude_prompts:
+      continue
+    answers = []
+    for i in range(num_batches):
+    # There is a limit of 4096 tokens per request, so
+    # process by batch
+      batch = test_examples[(i*batch_size):((i+1)*batch_size)]
+      completion = client.chat.completions.create(
+        model=model_name,
+        seed=0,
+        messages=[
+          {"role": "system", "content": prompt},
+          {"role": "user", "content": "\n".join(batch)}
+        ]
+      )
+      res = completion.choices[0].message.content
+      # res = completion.choices[0].message.content.split("\n")
+      # assert len(batch) == len(res)
+      answers.append(res)
+      # answers.extend(res)
+    assert len(answers) == len(test_examples)
+    df = pd.DataFrame({"request":test_examples, "answer": answers})
+    df["answer"] = df["answer"].str.replace("\n", "\\n")
+    df["request"] = df["request"].str.replace("\n", "\\n")
+    df.to_csv(path_out / f"answer_to_{name}.csv", index=False)

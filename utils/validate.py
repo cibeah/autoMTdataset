@@ -75,7 +75,7 @@ def format_error_checks(dataset):
 
 if __name__ == "__main__":
 
-    data_path = "data.jsonl"
+    data_path = "data/confiant/train_data.jsonl"
 
     # Load the dataset
     with open(data_path, 'r', encoding='utf-8') as f:

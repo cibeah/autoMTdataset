@@ -1,0 +1,1 @@
+Please consider the following sentence in French and return its translation in Martinican creole; with the spelling established by the Groupe d’études et de recherches en espace créole (GEREC):

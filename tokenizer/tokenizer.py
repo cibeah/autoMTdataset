@@ -3,9 +3,6 @@ import argparse
 import sentencepiece as spm
 import os
 
-# from Karpathy's colab 
-# https://colab.research.google.com/drive/1y0KnCFZvGVf_odSfcNAws6kcDD7HsI0L?usp=sharing#scrollTo=rSv1vfIVOhvr
-
 
 parser = argparse.ArgumentParser(description='tokenizer')
 parser.add_argument('mode', type=str, help='train or encode or decode')
@@ -14,6 +11,8 @@ parser.add_argument('--model-name', "-m", type=str, help='model name', default="
 
 path_to_input_file = "C:\\Users\\clair\\Documents\\Projects\\creole-nlp\\nlp-kreyol-resources\\datasets\\kreyolad\\monolingual.mart"
 
+# from Karpathy's colab 
+# https://colab.research.google.com/drive/1y0KnCFZvGVf_odSfcNAws6kcDD7HsI0L?usp=sharing#scrollTo=rSv1vfIVOhvr
 options = dict(
   # input spec
   input=path_to_input_file,
@@ -25,7 +24,7 @@ options = dict(
   model_type="bpe",
   vocab_size=8_000,
   # normalization
-  normalization_rule_name="identity", # ew, turn off normalization
+  normalization_rule_name="identity",
   remove_extra_whitespaces=False,
   input_sentence_size=200000000, # max number of training sentences
   max_sentence_length=4192, # max number of bytes per sentence
@@ -66,7 +65,6 @@ if __name__ == "__main__":
     tokens = sp.encode(args.seq)
     print(tokens)
     print([(sp.id_to_piece(idx)) for idx in tokens])
-    # vocab = [[sp.id_to_piece(idx), idx] for idx in range(sp.get_piece_size())]
   elif args.mode == "decode":
     sp = load(args.model_name)
     seq = args.seq.split(" ")

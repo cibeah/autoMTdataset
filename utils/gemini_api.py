@@ -18,6 +18,9 @@ class GeminiAPI:
     def _get_cache_content_url(self):
         return self.base_url + f"cachedContents?key={self.api_key}"
     
+    def _get_cache_update_url(self, cache_name):
+        return self.base_url + f"{cache_name}?key={self.api_key}"
+    
     def cache_prompt(self, model_name, prompt, time=300):
         url = self._get_cache_content_url()
         data = {
@@ -29,7 +32,7 @@ class GeminiAPI:
         r = requests.request("POST", url=url, headers=headers, json=data)
         r = r.json()
         # here: get cached name
-        self._cached_contents[model_name] = r["name"]
+        self._cached_contents[model_name] = (r["name"], r["expireTime"], prompt, time)
 
     def generate_content(self, model_name, batch, prompt=None):
         headers = { 'Content-Type': "application/json"}
@@ -40,12 +43,13 @@ class GeminiAPI:
             "generationConfig": { "seed": 0 },
             "contents": messages
         }
-        cache_name = self._cached_contents.get(model_name, None)
-        if cache_name is None:
+        cache_content = self._cached_contents.get(model_name, None)
+        if cache_content is None:
             data.update(
                 {"system_instruction": { "parts" : { "text": prompt }}}
             )
         else:
+            cache_name, expire_time, cache_prompt, cache_time = cache_content
             data.update(
                 {"cachedContent": f"{cache_name}"}
             )
@@ -53,7 +57,21 @@ class GeminiAPI:
         url = self._get_generate_content_url(model_name)
         r = requests.request("POST", url=url, headers=headers, json=data)
         r = r.json()
-        text = r["candidates"][0]["content"]["parts"][0]["text"].strip(" \n")
+        if (cache_content is not None) and ("error" in r) and (r["error"]["code"] == 403):
+            print(f'403 ERROR: {r["error"]["message"]}')
+            # recache prompt
+            self.cache_prompt(model_name, cache_prompt, cache_time)
+            # update_cache
+            data.update(
+                {"cachedContent": f"{self._cached_contents[model_name][0]}"}
+            )
+            r = requests.request("POST", url=url, headers=headers, json=data)
+            r = r.json()
+        text = ''
+        if "candidates" in r:
+            text = r["candidates"][0]["content"]["parts"][0]["text"].strip(" \n")
+        elif "error" in r:
+            print(f'ERROR: {r["error"]["message"]}')
         return text
     
 # Vertex AI
